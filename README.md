@@ -1,17 +1,21 @@
+<div align="center">
+
 # 🛡️ Sentinel Fusion
 
-> **Turning fragmented digital evidence into connected, explainable
-> intelligence.**
+### **AI-Powered Digital Intelligence Fusion Platform**
 
-```{=html}
-<p align="center">
-```
-`<img src="https://img.shields.io/badge/Status-In%20Development-blue?style=for-the-badge">`{=html}
-`<img src="https://img.shields.io/badge/AI-Powered-purple?style=for-the-badge">`{=html}
-`<img src="https://img.shields.io/badge/Built%20with-Love%20%26%20Coffee-orange?style=for-the-badge">`{=html}
-```{=html}
-</p>
-```
+*Turning fragmented digital evidence into connected, explainable intelligence.*
+
+<br>
+
+![Status](https://img.shields.io/badge/Status-In_Development-2563eb?style=for-the-badge)
+![AI](https://img.shields.io/badge/AI-GPT--5.5_+_LangGraph-8b5cf6?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-16-000000?style=for-the-badge&logo=nextdotjs)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.115-009688?style=for-the-badge&logo=fastapi)
+![License](https://img.shields.io/badge/License-MIT-success?style=for-the-badge)
+
+</div>
 
 ------------------------------------------------------------------------
 
