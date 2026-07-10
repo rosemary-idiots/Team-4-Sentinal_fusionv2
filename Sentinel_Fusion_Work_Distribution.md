@@ -199,13 +199,4 @@ docker/
 
 Feature → Develop → Main
 
-------------------------------------------------------------------------
 
-# Deliverables
-
-  Member     Ownership
-  ---------- --------------------------------
-  Member 1   Frontend Dashboard
-  Member 2   Backend APIs & Database
-  Member 3   AI Intelligence Engine
-  Member 4   DevOps, Security & Integration
