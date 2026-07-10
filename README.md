@@ -189,7 +189,7 @@ participation.
 
 ------------------------------------------------------------------------
 
-::: {align="center"}
+
 ### 💜 Built with curiosity, caffeine, teamwork, and just the right amount of chaos.
 
 *"Because every digital breadcrumb tells a story --- if you know how to
