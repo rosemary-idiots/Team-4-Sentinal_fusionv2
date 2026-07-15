@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡️ Sentinel Fusion
+# 🛡️ Sentinel Fusion v2
 
 ### **AI-Powered Digital Intelligence Fusion Platform**
 
